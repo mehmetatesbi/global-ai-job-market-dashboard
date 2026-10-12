@@ -40,7 +40,7 @@ This project delivers high-density labor market intelligence, evaluating global 
 ---
 
 ## Dashboard Preview
-![GALWI Dashboard](Global AI Labor & Wage Intelligence (GALWI).png)
+![GALWI Dashboard](global_ai_labor_wage_intelligence.png)
 
 ---
 
