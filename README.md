@@ -35,8 +35,8 @@ Links & References
 
 📊 Dataset: https://www.kaggle.com/datasets/debayank2024/ai-impact-on-jobs-and-salaries-2020-2026
 
-Author
-Mehmet Ateş
+## Author
 
-LinkedIn: linkedin.com/in/mehmet-ateş-993007233
-GitHub: github.com/mehmetatesbi
+**Mehmet Ateş**  
+- **LinkedIn:** [linkedin.com/in/mehmet-ateş-993007233](https://www.linkedin.com/in/mehmet-ate%C5%9F-993007233)  
+- **GitHub:** [github.com/mehmetatesbi](https://github.com/mehmetatesbi)
