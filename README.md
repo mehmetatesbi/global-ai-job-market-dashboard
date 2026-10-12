@@ -45,7 +45,6 @@ This project delivers high-density labor market intelligence, evaluating global 
 ---
 
 ## Links & References
-* 📂 **GitHub Repository:** https://lnkd.in/dKmXNN2P
 * 📊 **Dataset:** [Kaggle Dataset Link](https://www.kaggle.com/datasets/debayank2024/ai-impact-on-jobs-and-salaries-2020-2026)
 
 ## Author
